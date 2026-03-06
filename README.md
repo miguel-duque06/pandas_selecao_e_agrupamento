@@ -1,2 +1,2 @@
 # pandas_selecao_e_agrupamento
-Seleção e agrupamento em pandas
+Seleção e agrupamento com pandas
