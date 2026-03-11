@@ -3,7 +3,7 @@ Projeto desenvolvido em Python com o objetivo de demonstrar técnicas de seleç�
 
 O notebook apresenta exemplos práticos de como manipular dados e extrair informações relevantes a partir de um conjunto de dados.
 
-🚀 Tecnologias Utilizadas
+🚀 Tecnologias Utilizadas:
 
 Python
 
