@@ -42,3 +42,6 @@ Preparação de dados para Machine Learning
 📊 Objetivo do Projeto
 
 Este projeto tem como objetivo praticar e demonstrar técnicas de manipulação de dados com Pandas, especialmente operações de seleção, filtragem e agrupamento, que são essenciais no fluxo de trabalho de análise de dados.
+
+**Observação:**
+O primeiro arquivo do projeto é muito grande e não foi possível adicona-lo no repositório.
