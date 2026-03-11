@@ -3,7 +3,7 @@ Projeto desenvolvido em Python com o objetivo de demonstrar técnicas de seleç�
 
 O notebook apresenta exemplos práticos de como manipular dados e extrair informações relevantes a partir de um conjunto de dados.
 
-🚀 Tecnologias Utilizadas:
+**🚀 Tecnologias Utilizadas:**
 
 Python
 
@@ -11,7 +11,7 @@ Pandas
 
 Jupyter Notebook
 
-📘 O que é abordado no projeto
+**📘 O que é abordado no projeto**
 
 Neste notebook são exploradas diversas operações importantes para análise de dados, como:
 
@@ -29,7 +29,7 @@ Aplicação de funções de agregação
 
 Análise de dados agrupados
 
-Essas técnicas são fundamentais em processos de:
+**▶️Essas técnicas são fundamentais em processos de:**
 
 Análise de dados
 
@@ -39,7 +39,7 @@ Engenharia de dados
 
 Preparação de dados para Machine Learning
 
-📊 Objetivo do Projeto
+**📊 Objetivo do Projeto**
 
 Este projeto tem como objetivo praticar e demonstrar técnicas de manipulação de dados com Pandas, especialmente operações de seleção, filtragem e agrupamento, que são essenciais no fluxo de trabalho de análise de dados.
 
